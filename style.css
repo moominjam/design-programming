@@ -10,10 +10,10 @@ canvas {
 #playButton {
   width: 200px;
   height: 50px;
-  background-color: #ffffffdf;
+  background-color: #ffffffdf; //Setting the button background colour
   color:#080707;
   border: none;
-  border-radius: 8px;
+  border-radius: 15px;  
   cursor: pointer;
-  font-size: 20px;
+  font-size: 20px; //Setting the font size
 }
