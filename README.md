@@ -12,4 +12,4 @@ The visualizer generates a rotating pattern reminiscent of a kaleidoscope, with 
 (2) Users can adjust the size and color of the visual patterns using two sliders.
 
 ## Deepbloom Demo
-![Description of GIF](./Deepbloom.gif)
+![Description of GIF](./Deepbloom.gif)。
